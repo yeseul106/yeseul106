@@ -8,7 +8,9 @@
 
 👍 개선과 변화에 두려워하지 않고 늘 더 나은 방향으로 나아가고 배우는 것을 즐거워 합니다. <br>
 
+
 <br>
+<img src="https://github-readme-stats.vercel.app/api?username=yeseul106"> 
 
 ## 🔨&nbsp;Skills
 ### Back-end
@@ -48,7 +50,4 @@
 * 기간 : 2022.11 ~ 2023.01
 * 친구 책장을 구경하거나 친구에게 책을 추천할 수 있는 책장 공유 커뮤니티 서비스
 * [PeekaBook](https://github.com/team-peekabook/Peekabook-server)
-<br>
-<hr>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=yeseul106"> 
+
